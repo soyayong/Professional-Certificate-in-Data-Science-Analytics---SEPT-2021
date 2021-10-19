@@ -1,0 +1,175 @@
+Unknown 0:04
+All weekend, data scientists, they don't have to have such a discipline and study, but they have to have the skills they have to practice, and they can be the presenter, so that's why everyone, data scientists. So what do you think the point is that I told you so. You don't have to go and study Bachelor or master or PhD in data science or computer engineering or computer science or anything related to computer science or statistics or math, but you need to practice you need to know the tools for data scientists, you need to know the libraries you need to know how to use computer programming language like Python like to be successful, so there's no need to practice for like maybe three to one year, three months, six months maximum one year, then we'll be successful data science. Alright, then we talk about the importance of vectors that every data scientist of all of those like beginner data scientists, they must have those four characters we say publicity, judgmental argumentative and able to tell the stories, so you will have to have those four characters to be successful data scientists and why to have curiosity, your curiosity will help you to dig deeper into the data and to get the insights and quantitative judgmental, you are going to be. As a result,
+
+Unknown 1:44
+which machine learning to use,
+
+Unknown 1:48
+how to do the data wrangling, the data, and export and get the analysis and sort of your mandated, because you need to convince people about your findings. You will need to make them believe in your thoughts and your results, able to tell the story, and again this is not about your communication skills. It is about how to visualise your, how to visualise your, your data to make it easy to read everyone and to understand that. Okay, of those guys. And definitely decide that you need to have some coding skills you need to have some visualisation visualisation skills you need to have data preparation skills, which is the gun to have skills. So I would say, this is true of course, I will say, there are many facets to data science. Most but not all involve a little, a little silence, and a lot of curiosity about the data is not just true or false, it's a true. Yes, exactly. So, you need to have all of your systems like an independent delegation regionalization, and even the statistics and the math. Yes, we need to have to have them, and now we are using the tools we have a lot of tools, by the Python programming language. Alright, so we talk about data science and data scientists and remember,
+
+Unknown 3:52
+we move
+
+Unknown 3:54
+on to reduce consider as the central data scientists. So what is the benefit of the cloud, we say, the cloud is allowing you to pass the limitation of your personal machine, but as a desktop or a laptop. Right, so that's why we are using the cloud, or the cloud as an indication of the deploying or not fraud and efficiency of an intersection, which one is it.
+
+Unknown 4:33
+He's definitely a difference man so why don't we use it love music love to like to overcome the limitation of our computer machine limitation of our storage, and also to have the data in a sacred place, and also to use the tools that are available on the cloud. With all the analysis machine learning algorithms, everything is irrelevant. You just need to use it. What I want to avoid in this episode. Yes. All right. Then we move to the understanding of the big data, big data has five G's, do you remember that these
+
+Unknown 5:11
+are the five, these are the big data university veracity. By veracity. And then, yes, Exactly. So the final piece of the Big Data is the velocity, volume, variety, velocity, and value by piece of the big data. And the fourth one about the velocity, velocity is the speed that data accumulated volume is the skill that they definitely accumulated, but it, it is a wide variety of the format of the data that accumulated data, and it comes down to structured and unstructured data, velocity it is about the quality of the data that value of data into value. Okay. One of the applications of the big data, as we mentioned just now is,
+
+Unknown 6:37
+where do I get
+
+Unknown 6:39
+the questions, man. We are doing got a vision for our tomorrow. The questions might like to find them tomorrow. Used to be about the format of the committee data, and we consider also the subtractor.
+
+Unknown 7:51
+To give you a good description of Hadoop, or anything general. And you tell me any cluster because when you tell me what it is. It is actually.
+
+Unknown 8:05
+So can I say. Hadoop is a collection of open source software utilities, using network of mini computers to solve the problem involving Big Data.
+
+Unknown 8:16
+Can I said, does it consider as a tool. In general, precedent. Yes, exactly. So, the idea of the cloud or the Hadoop, it is like a place to offer you everything, and they have the high performance machine. And it's like, more than one computer machine to work in parallel to work on your data on a very fast. Time to give me the reason
+
+Unknown 8:46
+why we use the way that I say data science is a part of mining on data mining is a part of data science and
+
+Unknown 9:10
+data science is a part of data mining, or data mining is a part of data science. Just keep this in your mind, data mining, is a part of data science. And I think we should
+
+Unknown 9:25
+really have a database.
+
+Unknown 9:29
+Database, about how to create the tables for your data associate for your, for your items, and then when you start to do mining, you'll start to find a relationship between the columns of data science is about when the problems are bigger than the Sort By data. And when the data also began to be hindered by the assessments so that's why we use data science, but data mining can be considered as one of the data science skills. So, they are right.
+
+Unknown 10:14
+The ice Data Science Methodology, as
+
+Unknown 10:30
+you. Business investment. I like this. So, business understanding. You think this is understanding that is like the main focus of the business, understanding it is defined, the main goal. The main objective of this is understanding that is something else. If I say business understanding it is to spend enough time to, to understand the problem. And as a result of the business, understanding is about getting what is the main one and only. So is it true in business understand because it is the most important to state and within business methodology. Alright, so, analytic approach, analytical approach, which is considered consider as the second, especially as the second stage in the Data Science Methodology. And I say, there might be another approach that is 100 person based depends on the business, understanding, to choose the right approach to solve the problem of that data set. You think I'm right. Because, exactly. So, to see the analytical approach differently based on your interest, your, your understanding of the problem, and your main your main thought, alright. So, and then data requirements and then data permission. So, the collection, we are going to check the availability of the data. The availability of the data does not. Yes, exactly. So during the data requirements, you will require that you delete the connection, you are going to check whether the required data is available. Then, after that what is that after the data requirements is the data understanding. Normally for the data understanding we spend, like, 70 to 90%, of the whole project working in data understanding.
+
+Unknown 13:10
+Is that right, for the data understanding, because after the data collection. We spend like 70 to 90% of the project working
+
+Unknown 13:27
+on the history. So, during the data understanding we don't spend that much during the data preparation, yes, we spend, like, 70, to 90% of the project. During the data understanding what we do, we just start to look at the dataset. That's why we use pandas, we look at performance we look at the rows we look at the data types, we look at the data, we try to get some understanding about the data, but we don't play with the values, we don't do any replacement to the missing values or anything. Maybe during the data understanding, you can check whether there is a missing value or not, but to solve the problem of the missing value will be joining the data and the interview data until then it is at this point of the data preparation part. Right. So, data, data preparation, if I want to divide the test I divided two data cleaning data wrangling and then exploratory data analysis, I can work. It is two parts the first part we call data cleaning or data wrangling. The most common one is data handling, sometimes they come with the cleaning. And the second part is the exploratory data analysis. All right, and I think you are familiar with what we do data handling and what we do during exploratory data analysis. Okay so moving to from data preparation, moving to be modelling. So, if I, if my model is a predictive model. I want to build a predictive model. Do you think building the predictive models of BGP. During the modern modelling speak just yes, definitely doing this on the analytic approach that I chose earlier. Then, during the month. I will be. I will be, implement, I will be both the mother why because the dataset is that it just came from the data preparation and the algorithm was chosen, then I can build the model. Alright, so if I'm building a predictive model, definitely, I need to check the evaluation of the model from the model. So the evaluation methods for the prediction are especially for the classification. One of them just f1 is called, can I say, I want to score is based on the is based upon the confusion matrix. Yes, exactly. So f1 score is considered as one of the, this is considered as the calculation of f1 score based on the confusion matrix, and it is one of the evaluation method, and definitely it is during the evaluation stick. What other methods, be used for the evaluation,
+
+Unknown 16:49
+we use also the data we use The Log loss. We use the main six errors for the evaluation of those that we use during that duty date. So recall that for the supervised machine.
+
+Unknown 17:12
+Depending on the Data Science Methodology. You think the job of the data scientists will end by deploying and getting the feedback of the of the project. Okay, why the job is not ending because the new designs methodology, it is an iterative process. And it was saved. And we mentioned. Yes, exactly. And it was saved, and we mentioned also during our classes that the to the actual job of data scientists will be started. When you deploy your model. You need to work on the new data and you need to work on how to improve the model. The results of the model how to make it so hard to maintain. It is also
+
+Unknown 18:16
+usually the result of the scan network net and you don't have to instal any software, because the scanner droplet, and use the Google Play app. And this one is one of the application that we also mentioned, which is, which is the cloud. So, again, the purpose of using those to that to allow us to do it is to over to get together, or to get over the limitations of our missions. And I think you are familiar with their uses, and things of this coming up naturally all right and we'll be okay for the school network lab or for the quarter, and this course, what did we use which programming language does he use Python programming language. And if, like, I want to define a programming language, I would say it is a multi purpose computer programming language, so if you want to. If you want to design an app. If you want to make a website you can use Python, If you want to use it for data science, you can use Python. So I think it's just because some programming language, it is very easy to understand and it is very friendly so that's why it becomes the most common computer programming language for the, for the are the fields of data
+
+Unknown 19:51
+science in data science.
+
+Unknown 19:54
+All right, to this, your mind, just wanders. If you have such a question, then the perfect answer is. Okay, what are the data types of the pipe. We say we have a three basic database of writing, which is integer, floats, and then separate so right. And what we say we say we can concatenate the bigger times. Alright, so I am sure you are familiar with the concatenate the concatenating two strings beside each other. And when it comes to concatenate, you always have to keep in your mind that concatenating happen for the SITRANS only. If you want to concatenate them, you have to use pescetarian. Alright, but what about if I want to concatenate, like I said train with default. Do you think I'm able to do so I will be getting an error in the code, you will be getting exactly as we mentioned that anything that is only for the six months. You cannot concatenate the float or string with the integer
+
+Unknown 21:21
+by the new data structure.
+
+Unknown 21:24
+The Platinum data structure or data centres that are subject to one of them is apple. And another one is at least what the difference is the main difference between default and the rest. We say that one is immutable why our list is immutable, right. So which one that was put on the list, and which one, which one is immutable, the whole list
+
+Unknown 21:59
+is different.
+
+Unknown 22:02
+And this is how you show. Nobody can listen. I want someone to agree with me, you have to be at the end of the day,
+
+Unknown 22:36
+except the couple is unique. This is the world. So, as long as the apple is unique, so it means the phone is what is immovable. Right, and less is what is immutable. Keep this one in your mind, except the list we can delete from the list. And we can also change the index in the list. But Interpol you cannot delete items you become the devil, and you cannot change the index of the items and data. So that's why they're called immutable lists. So moving from the list to to dictionary from from the whole list to a dictionary dictionary, it is the kind of data structure that has its own way to present the elements. So normally the elements, comes with the key, the key considered as the, the index for the value, right. And can we use a code, and an a dictionary. And that code prints for us, only the values, or maybe another code print for us. Is that possible, I'm going to send your call. You think I can, I can print
+
+Unknown 24:04
+something from that phone. Okay, so this code, this one what do I have, I have.
+
+Unknown 24:43
+I have a month to release reviews your dictionary reviews underscore year in the store that is considered as a, as a dictionary dot, keys, then to call this, what do you think that is for the codependent executive leader will be the index, so it means only the keys in that dictionary which is released, underscore year underscore date. Okay. What about if I change the values, this is what I'm going to change the keys with the bad news, but I wouldn't be dealing with it. I wouldn't be getting,
+
+Unknown 25:40
+only
+
+Unknown 25:42
+the values value of this. Okay. All right. So, moving from the data structure, to some of the data preparation or data analysis. When we talk about data analysis often generally we're talking about the course, we focus on a kind of format of the data set, and it was B dot c s v, right, but the format, some of the format that comes for the dataset, could be CSV to be JSON, could be Excel to be secure, and could be other forms, but we mentioned about those forms. Those four forms is not right. Or we mentioned something else.
+
+Unknown 26:45
+So you keep in your mind. In this course we use the word CSV, but that doesn't mean you're going to use only the CSV data. You can use JSON, you can use Excel we can use SQL, you can use a lot of other formulas for the data sets. All right, but the one that we mentioned the CSV, they send a secure message. Alright so when it comes, when it comes to five. By, 10 has many libraries, and using those libraries as functions, and those functions, help us to get results, instead of writing a massive batch, and in another word, we can see those libraries, and those machines, consider as the tools for data scientists to reuse.
+
+Unknown 27:36
+Can we say that you think this is the right way to describe that I that is quite important. When it comes to data science. When it comes to
+
+Unknown 28:08
+issue reapit Thank you. So, so when it comes to, to, data scientists, especially for those who are not from it, not good enough. They don't like not ignore the statistics. You don't have to write. Now, there are a lot of libraries for Python for data science, and those boundaries, comes with a lot of functions, you just need to know how to use those functions and he sat behind the scenes of those functions 100% based on very complex math, very complex statistics and a lot of that combination of probability and statistics. So we don't have to be good and probability and statistics. We just need to know how to use those functions, and we call them the tools for data
+
+Unknown 29:03
+scientists. Accounting questions. Okay, when we talk about those memories, so you remember some of them, but do you remember which one it was.
+
+Unknown 29:32
+Which one was adorned with memory, which one was visualisation library.
+
+Unknown 29:42
+So originally was the scientific library was meant by side by consider as the scientific library. Yes, exactly. Okay, which one it was the visualisation library.
+
+Unknown 30:02
+See them. Yes, I know which one was the employer. Yes, exactly. TensorFlow Yes, principle also consider how to be embedded in dollars and cents, TensorFlow can be for machine learning, but like a lot of people they're using it for the deep learning.
+
+Unknown 30:37
+Okay. Do you think there's a difference between the pandas data types, and Python data types. So let me say that. And I say data doesn't quite exactly seem that different. And pandas.
+
+Unknown 30:58
+No, the answer is different. But what about, what are the data types, and thus data type in pandas we have object, we have integer 64 We have a float 64 We have a data time 64 Is that right,
+
+Unknown 31:20
+so it is object instead of September Python float 64 Instead of logging Python integer 64 Instead of integer and Python. And one more data type, desk, we have it, why is important, which is the 64. All right, so data wrangling, the way I want to describe data wrangling. I would say data wrangling to deal with the missing values or data wrangling to deal with the formatting or data wrangling to deal with the normalisation or data wrangling to deal with the data, the categorical values and numerical value. Which one is derived from all of them. Yes, exactly. So the first one, which is dealing with the missing values. Normally, how do we deal with missing values. What is the way to deal with, to deal with the missing values or the, let's say for the numerical for the numeric components. Okay, we replace them. We replace them with, with the mean value. Okay, So how to deal with the missing values for the categorical column. In general, we replace them with the most
+
+Unknown 32:55
+frequent value. And when we delete those values.
+
+Unknown 33:00
+When. And the problem that we want to exit values. Okay so this is about the missing value propositions. The use method for the methods that we mentioned, to be used for the normalizations. I think we mentioned the three methods for normalizations. One of them is a min max, and other one is the simple,
+
+Unknown 33:44
+simple feature scaling up. He has a simple feature scaling. And the third one is the scope. Yes, exactly. And what is the idea of normalisation the idea of normalisation to happen in person between zero to one, for those are the score. We will have the numbers in between three to minus okay.
+
+Unknown 34:12
+Next, simple returns getting exactly that. So after that we are still in the data wrangling, then we do the correlation and the correlation statistics.
+
+Unknown 34:30
+Is that right or correlation and correlation statistics will be under which part of the data preparation or the data analysis, exactly will be under the exploratory data analysis. When it does not as we are talking about the correlation. So normally we look for the positive correlation and the negative correlation. Right. So normally, negative, negative is also fine. Yes, exactly. So, positive correlation or the negative correlation. We can say is that both of them are important for us as long as there is a correlation.
+
+Unknown 35:47
+The choice.
+
+Unknown 35:54
+Yes, exactly. Okay, moving from data preparation to the machine. So when it comes to machine learning. We have the artificial intelligence, we have the machine learning, and we have the deep learning. So, I would say, I will give you three options you choose the right one. I would say, machine learning is a part of artificial intelligence. While deep learning is a subfield of machine learning for artificial intelligence is a part of machine learning and deep learning is a subfield of artificial intelligence, or deep learning this artificial intelligence is a part of deep learning on the field of deep learning.
+
+Unknown 37:05
+Yes exactly, API. And always remember, artificial intelligence is like the cover of machine learning is a field of visual intelligence, why are we left with deep learning is a subfield of machine learning why, because one of the machine learning algorithms, it was developed and become more complex to handle the huge amount of pain. And that was the neural network. As we mentioned. Okay, so what are the types of numbers we are talking about machine learning to remember the types of things in them.
+
+Unknown 37:52
+Here's an example. We have supervised machine learning, we have unsupervised machine learning, we have semi supervised machine learning, and we have a rigorous reinforcement learning, which are four times in our course we focus on the supervised machine learning and unsupervised machine.
+
+Unknown 38:17
+Okay, so when do we use these assorted abroad was the forward four types of four type we have supervised, unsupervised unsupervised
+
+Unknown 38:27
+reinforcement, then the data set comes with the label. All the items cancel the label. And we have one item,
+
+Unknown 38:49
+not labelled. And we want to predict the label of that. So, this kind of a problem, and this kind of model to be both will be considered to be able to predict the level of the level, and the level of detail. You think this one is under what under supervised supervised, unsupervised or reinforcement,
+
+Unknown 39:19
+supervised and you're making sense out of, out of as long as, as long as predicting the label. As long as we know that is
+
+Unknown 39:38
+the actual result we know the labels and we want to predict them, and we can definitely is a supervised machine learning, and more. So probably it is a classification regression, when we want to predict the value or the level of the data. When we have continued, when we have the correlation. When we have values that increase or decrease continuously, either based on the values or based on the time.
+
+This transcript was generated by https://otter.ai

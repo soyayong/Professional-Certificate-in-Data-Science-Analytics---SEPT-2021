@@ -1,0 +1,79 @@
+Unknown 0:06
+clustering, nothing is talking about the cluster. When I have a data and the data. I don't know what the labels. Data comes without a label. I want to group them into two groups or two categories, this one called what, let's not call it clustering right clustering under which type of machine learning and unsupervised machine learning.
+
+Unknown 0:42
+So can I say that regression and aggregation classification is as supervised machine learning why clustering is supervised machine learning.
+
+Unknown 1:05
+So classification and regression is considered as an unsupervised machine learning, then clustering is considered as a superposition.
+
+Unknown 1:31
+All right. Can I say that classification regression is supervised machine learning, while clustering is unsupervised machine learning, as well. Sophia, we will see tomorrow, believe it because I don't want you to give it a listen. Okay, so always keeping in mind. Predictive Model definitely supervised machine learning, the security model, definitely, and supervised machine learning, predictive model as well. It is either regression or classification, the security model as well as a cluster clustering, it is about to grouping the data into groups based on the similarity of those data. When lifted more than that is about learning from the label data to predict the end level. So, so how many times do we have integration, you have the, the single linear regression, and we have the multiple linear regression. So as long as we have a single and multiple. So, can I say, single integration, based on more than one independent variable, Why are multiple linear regression, based on one independent variable, except for the repeat for your done. Okay so well from its name. As long as a single linear regression between only one independent variable. And when it comes to multiple linear regression techniques, you are going to use multiple, you are going to use more than one independent by.
+
+Unknown 5:03
+No, no independent. Independent dependent is the value that we want to predict based on the independent variable. Right, so the single linear medication, it means we are using only one independent variable and sometimes the independent variable. We'll call it a predictor or a multiple linear regression, it means you can use more than one independent variable, or more than one.
+
+Unknown 5:53
+Okay, then the evaluation governor when we talk about the Ventus apprentice. Which one is better or which one we were advised to use. We were advised to use the. Yes 7030 It means we have to use the trend is similar, and why. Because the trenches submit it is good to have out of sample accuracy,
+
+Unknown 6:30
+or we can call it, to have high out of sample it was exactly to prevent the overfitting.
+
+Unknown 6:47
+So the types of the machine learning, we talk about the supervisor we talk about the semi and the hamster by vise. Then, semi supervised leasing is a combination of the supervised and unsupervised machine learning, right.
+
+Unknown 7:06
+Okay, so what about the reinforcement learning, reinforcement learning as well. Reinforcement learning this kind of model. Learn from the mistakes. And the, the applications of the reinforcement learning that is like the autodrive autopilot drones. Exactly, is the kind of model that has any punishment and reward. And for the sake of learning from the mistakes.
+
+Unknown 7:52
+Do you think the semi supervised machine learning. There is a data level. For this purpose machine. Yes, but normally, the simplest way we use the semi supervised machine learning, because the labels are the label data, very few. And the whole set of the data. So what we do we cluster the big boobs are so easy to grow, become together because they share the same features an insight that will be very few differently, because in general, very few data level will be like one or two data comes with the label and database. So the whole group of the data won't be sharing the same data. Why, because they come together and wonderful only cluster. Because what because they, they have the same features, so definitely they can share the same. They can share the same
+
+Unknown 9:19
+money is definitely the simulation we said what was missing, finish is really the meat of the revision so before we finish.
+
+Unknown 9:55
+Some of you are counting that was us. Some of you are also getting all the threats that may appear in
+
+Unknown 10:05
+49% then there might be 64. Okay, so that is it did the semi supervised semi supervised okay why we use semi supervised, because we have data set, and the data set comes with a very, very few data level. Not all of them. Very few of them.
+
+Unknown 10:57
+So, what we do, we use semi supervised machine and why. Because we want to predict the level of the data and we also want to cluster the data. So when we do clustering, we will have groups, the data will be integrated. Right, and why they become a divorce because they are similar. So they come. So in each row will be like one or two of the data and data group has the label. So we will share that label with the whole group. Why, because based on the clustering believes that data become and what to do because they share the same features. If one of them has the legal, so they will compete because they are similar to each other, so they can have the same level
+
+Unknown 11:56
+of love the recording of this revision sessions, as soon as possible. This one you have to talk to elements.
+
+Unknown 12:19
+Okay. To continue about the supervised and unsupervised learning. The evaluation, we said, there is a thing we said the differences between supervised and unsupervised machine learning, In terms of evaluation. When it comes to unsupervised machine learning make up a lot of methods for evaluation. But when, when it comes to supervised machine learning, we have the limitation, and the number has the numbers for the supervised machine and. Is that true
+
+Unknown 12:51
+or false. Yes.
+
+Unknown 13:12
+Yes, exactly. For the supervised machine learning, we have a lot of evaluation methods, but for the unsupervised machine learning, we have a limitation in the number of the methods. And we have shared, We have shared that video in the class.
+
+Unknown 13:37
+Okay, moving from machine learning to be recommender system. So the main idea of the recommender system. I would say, like my understand misunderstanding about the number system recommender system because that kind of system. Try to, to study the customer, or people behaviour. Then to predict what do they want or what they might like. Later, can you say that about the recommender system. Yes, exactly. So this is the main idea of the recommender system is that you know what do you like, then I recommend the things that you like. So you will buy, or you will work on subsidised. Alright, that's all the system we have, we have said, two, we have set the content based upon the system, and the collaborative based collaborative filtering recommender system. Alright, so for the content base or commander system. So, it's based on the user profile. Right. Exactly. So based on the user. Normally, like what do they want, What will they say, what do they, what do they normally like the feedback, or by evaluation. So based on that they will come on to you things that you like. Alright, after the recommender system, we talked about the deep end and the significant difference between deep learning, and machine learning is what is the data, then we can see that machine learning, has a better appearance to the data on the wire while deep learning, the accuracy will decrease when the data, and it is
+
+Unknown 15:45
+what we already mentioned that when the data and increase, deep learning, accuracy will is why when the data and increase, machine learning, will start to decrease. Okay. All right, that's good. So tomorrow on the exam, I want you to get all the tricks that he will use this analytical significant difference between deep learning and machine learning to one is the data. The, the new the beauty of deep learning, the motivator and increase the accuracy also increase. But when machine learning, it has a limitation. There is a limit after that limit, then the start. This can be the accuracy of the data start to decrease. And the other difference between these both also an increase, deep learning, no matter how deep it is that you will get more data, then the data you'll see an increase, so that's why it is that a very sharp line, the increase of the value to receive value, but machine learning, it has a limit. Yes, the policy and the case but there is a limit machine that doesn't anymore. So, then the purity. Okay, so the other difference, the significant difference for the deep learning, and machine learning as well as the feature engineering. So which one we need feature engineering and engineering, which one we don't need feature engineering. Exactly, machine learning needs feature engineering, why of deep learning will automatically capture the, the feature that needed to get the result of the, of the project on that side of the device. Okay. So do you remember the applications, the wonderful applications that we share about deep learning.
+
+Unknown 19:01
+We see self driving cars, about the deep learning. We say the automatic translation or machine translation. One of the applications for deep learning. One of the one other application which is very interesting for me especially, which is adding sounds to Silent videos. Alright, another application. Exactly the calibration. The detection of the handwriting. The auto speech, Obama was in the case study for the week. Okay. All right, then to end up, it is about the SQL. So SQL is a kind of a language to communicate with the databases. Databases as well as a repository of the data does not have to. Yes. Okay, what are the basic comments are the basic or the sample comments for the message do we share them and the slides. Unfortunately we didn't do the recording today.
+
+Unknown 20:37
+Sorry about
+
+Unknown 20:43
+no limits for the basics, the basic is the tray table. And so, update, delete, select those five simple comments for the persecutor, again, create table insert, update, delete, select
+
+Unknown 21:15
+Delete.
+
+Unknown 21:22
+Did we can use delete I think dummies also grow. Alright. So,
+
+Unknown 21:41
+so far, that's all about the example of the model. And if there's anything else, I will add it and make it as a surprise for you.
+
+This transcript was generated by https://otter.ai
