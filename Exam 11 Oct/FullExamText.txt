@@ -1,0 +1,377 @@
+15:53:13 So, First of all, when we started we talk about the definition of the data science.
+15:53:18 And we say, data science, if you remember the definition of the data science.
+15:53:23 We say data science is is the way of exploring data.
+15:53:29 And it is the way of manipulating data, and it is the way of analyzing data.
+15:53:35 And we do all of these for what to find the solutions for the problems or to make recommendations or to get the insights, is that right or wrong.
+15:53:48 Does right.
+15:53:50 So, data science is, it is the field of exporting data manipulating data and analyzing the data.
+15:53:58 All right.
+15:54:05 Okay, if I give you just two statements, and this one about the data scientists, we share that data scientists, those who are,
+15:54:18 who should be like
+15:54:25 should be like having having a degree, like a PhD holders, or at least they have a degree in computer science or software engineering or some like discipline, study, or we can say data scientists, they don't have to have such a discipline and study, but
+15:54:44 they have to have the skills they have to practice, and they can be data scientist so that's why everyone can can be data scientists.
+15:54:57 So what do you think, which one is the right one, the right one is the one that you don't have to go and study bachelor or master or PhD and data science or computer engineering or computer science or anything related to computer science or statistics
+15:55:14 or math, but you need to practice you need to know the tools for data scientists, you need to know the libraries, you need to know how to use computer programming language like Python like are to be a successful data scientists and you need to practice
+15:55:28 for like, maybe three to one year three months, six months. Maximum one year, then you will be successful data scientists.
+15:55:38 Alright, then we talk about the important characters that every data scientist, all of those like beginner data scientists, they must have.
+15:55:50 And those four characters we say curiosity judgmental argumentative and able to tell the stories. So you have to have those four characters to be successful data scientists and why.
+15:56:10 To have curiosity your curiosity will help you to dig deeper into the data and to get the insights from the data judgmental, you are going to be able to judge how good is the result which machine learning algorithm to use, how to do the data, data wrangling,
+15:56:26 how to deal with the data and the exploratory data analysis and so on.
+15:56:32 argumentative because you need to convince people about your findings, you need to make them believe in your thoughts, and in your results, able to tell the story ever tell the story.
+15:56:44 It is not about your communication skills. It is about how to visualize your have to visualize your, your findings how to do, how to visualize your,
+15:56:58 your data to make it easy to reach everyone and to let them understand what you did.
+15:57:05 Okay, so all of those directors and definitely besides that you need to have some coding skills you need to have some visualization visualization skills you need to have data preparation skills, which is data wrangling and exploratory data analysis, you
+15:57:23 need to have skills with the machine learning, and all of these things, you saw, like we learn it together through the course.
+15:57:32 Alright,
+15:57:35 then I would say, is it a true or false, I would say, like, there are many paths to a career and data science, most but not all involve a little math a little science, and a lot of curiosity about the data isn't considered as a true or false, it's a true.
+15:57:55 Yes, exactly. So you need to have all of those skills like a little with a garden garden with machine learning a little with the visualization, and even the statistics and the math.
+15:58:06 Yes, you need to have the hardware, and now we are using the tools we have a lot of tools for data scientists by the Python programming language.
+15:58:21 Being us.
+15:58:21 Alright.
+15:58:23 So, we talked about data science and data scientists on Do you remember we move to the cloud right and we say, cloud, it is considered as the God sent to data scientists.
+15:58:35 So what is the benefit of the cloud, we say it loud it is allow you to pass the limitation of your personal machine. Whether is a desktop or a laptop.
+15:58:48 Right. So that's why we are using the cloud,
+15:58:53 or cloud, it has a limitation of the deploying or running your code, or the efficiency of the data set, which one is right.
+15:59:08 Exactly. The first one so why do we use a cloud Music loud to live to overcome the limitation of our computer machine limitation of our storage, and also to have the data and the safer place.
+15:59:18 And also to use the tools that are available on the cloud, which all the analysis machine learning algorithms, everything is available there. We just need to use it and work on your data.
+15:59:31 I want to have them It just had to. Yes, exactly.
+15:59:36 All right.
+15:59:39 Then we move to the understanding of the big data, big data has five G's, do you remember the V's of the, the five G's of the big data.
+15:59:59 Finally, on velocity. Velocity
+16:00:06 clarity.
+16:00:08 But it I think variety. There are city and value. Yes, exactly. So the five of these of the big data, it is the velocity volume variety velocity and the value, five feet of the big data, and o'clock one about the velocity.
+16:00:32 And a quick one about the velocity. Velocity is the speed that data accumulated volume is the scale that data acumen accumulated variety, it is a wide variety of the format of the data that the accumulated data, and it comes into structured and unstructured
+16:00:48 data veracity It is about the, the quality of the data and value it is about how to turn data into value.
+16:01:01 Okay, all right. One of the applications of the big data, as we mentioned just now is how do.
+16:01:12 Where do I get their questions what the questions may I know
+16:01:19 Christian. We are doing our vision for our tomorrow exam.
+16:01:24 The questions might, might you find them tomorrow and the exam.
+16:01:37 All right.
+16:01:43 sample questions, I don't have sample questions I'm sorry.
+16:02:05 but it is about the about the format of the data documented data, and can be considered also the structure and unstructured data.
+16:02:23 All right. How do.
+16:02:26 So, I'm going to give you a quick description of Hadoop or any in general, any cloud. And you tell me any cloud for data science, I mean, and you're telling me whether it is.
+16:02:37 So what can I say Hadoop which is a collection of open source software utilities, using network of many computers to solve a problem involving big data.
+16:02:51 Can I said, is it considered as a true, or in general, it is true.
+16:02:58 Yes, exactly. So, the idea of the cloud or the Hadoop, it is like a place to offer you everything. And they have the high performance machine. And it's like, more than one computer machine to work in parallel to work on your data, and the very first time
+16:03:16 to give you the result.
+16:03:18 And also I want you to understand why we use the cloud.
+16:03:25 All right. Alright.
+16:03:34 Okay.
+16:03:36 When I say data science is a part of data mining on data mining is a part of data science which one is correct, which one is the total one data science is a part of data mining or data mining is a part of data science.
+16:03:53 Yes, keep this one in your mind data mining is a part of the data science. And I think we share about it we say we have a database, we have data mining and we have data science database, it is about how to fill the tables for your Excel sheet for your
+16:04:10 for your items, and then when you start to do mining, will you start to find a relationship between the columns or access data mining data science is about when the problems are bigger than to solve by data mining and when the data also bigger to be handled
+16:04:29 by the Excel sheets so that's why we use data science, but data mining can be considered as one of the data science steps.
+16:04:39 So data mining is a part of data science not the data science is that part of data mine.
+16:04:46 All right.
+16:04:49 Then, if I say data science methodology has how many stages.
+16:04:58 Dennis stages, exactly, understood by business, understanding right.
+16:05:14 Bu, yeah.
+16:05:09 Business understanding. Yeah, I like this.
+16:05:14 Do you.
+16:05:15 Alright. Perfect.
+16:05:18 So, business understanding.
+16:05:23 Do you think business understanding it is like the main focus of the business understanding it is defined the main goal, and the main objective of business understanding it to something else.
+16:05:34 If I say business understanding it is to spend enough time to, to understand the problem, and as a result of the business understanding. It is about getting what is the main goal, and what is the main objective source of true and business understanding
+16:05:49 always keeping your mind.
+16:05:51 That is the most important to stage, and the data science methodology.
+16:05:56 Alright, so analytical approach analytical approach. Definitely. It is considered as the second, especially as the second stage and the data science methodology.
+16:06:09 And I say, all right, I might be wrong.
+16:06:14 Another to approach it is hundred percent best depends on the business understanding to choose the right analytic approach to solve the problem of that data set on that project.
+16:06:29 Do you think I'm right or wrong.
+16:06:35 Yes, exactly. So choosing the analytic approach it differently based on your your your understanding of the problem, and your main your main goal and objective.
+16:06:50 Alright, so, and then data requirements and then data collection. So, data collection, we are going to check the availability of the required data, or the event.
+16:07:05 The availability of the data.
+16:07:08 Is that right.
+16:07:12 Yes, exactly. So I don't need the data requirements you will require the data.
+16:07:18 During the data collection, you are going to check whether they, the required data is available on it.
+16:07:25 Right.
+16:07:27 Then after that, what is that after the data requirements is the data, understanding.
+16:07:33 Normally, for the data, understanding we spend like 70 to 90% of the whole project, working and the data understanding.
+16:07:46 Is that right,
+16:07:49 yes.
+16:07:52 For the data understanding, which is after the data collection know we spend like 70 to 90% of the whole project working in the beta understanding.
+16:08:03 I think that one under that application but.
+16:08:07 Yes, exactly.
+16:08:08 Yeah. So, during the data understanding we don't spend that much of time but the during the data preparation yes we spend like 70 to 90% of the whole project during the data preparation during the data understanding what we do, we just start to look at
+16:08:28 the data set. That's why we use pandas, we look at the columns we look at the rules we look at the data, data types, we look at how big the data, we try to get some understanding about the data, but we don't play with the values we don't do any replacement
+16:08:43 to the missing values or anything. Maybe during the data understanding. You can check whether there is a missing value or not, but to solve the problem of the missing value will be during the data wrangling data wrangling it is.
+16:09:01 preparation part.
+16:09:08 Alright.
+16:09:08 So, data, data preparation. If I want to divide it can I divide it to data cleaning or data wrangling, and then exploratory data analysis, I can write it is two parts.
+16:09:21 The first part we call the data cleaning or data wrangling, the most common one is data wrangling, sometimes they call it data cleaning. And the second part is the exploratory data analysis.
+16:09:34 All right, and I think you are familiar with what we do, you do any the data wrangling and what we do during the exploratory data analysis.
+16:09:42 Ok so moving to a forum data preparation. Moving to the modeling.
+16:09:48 So if I, if my model is a predictive model.
+16:09:53 All right, I want to build a predictive model. Do you think building the predictive model will be during the during the model modeling stage
+16:10:12 is yes, definitely doing based on the analytic approach that I, I chose earlier. Then, during the modeling, then I will be implement the code, I will be implement.
+16:10:38 I will be both the model why because the data set is already just came from the data preparation and the algorithm was chosen.
+16:10:32 Then I can build the model.
+16:10:36 Alright, so if I'm building a predictive model, definitely, I need to check the evaluation of the model of the model. So the evaluation methods for the prediction are especially for declassification.
+16:10:50 One of them is f1 is called. Can I say f1 his score is based on there, as well as on the confusion matrix.
+16:11:03 Yes, exactly. So, if one is called it is considered as one of the sponsor as the calculation of what if one is called based on the confusion confusion matrix.
+16:11:14 And it is one of the evaluation method, and definitely it is during the evaluation stage. What other methods, be used for the evaluation. We use also the J card, we use the log loss.
+16:11:26 We use them in sequence errors for the regression, those are the evaluation methods that we use during what a during the sorry for what for the supervised machine learning
+16:11:47 to end up the data science methodology.
+16:11:50 Do you think the job of the data scientists will end by deploying, and getting the feedback of the, of the project.
+16:12:05 Okay, why the job is not ending, because the data science methodology. It is an iterative process.
+16:12:16 And it was saved. And we mentioned, yes exactly iterative and it was saved. And we mentioned also during our classes that the job, the actual job of data scientists will be started when you deploy your model, then you need to work on the new data that
+16:12:29 you need to work on how to improve the, the model, the result of the model how to manage it so how to maintain the results of the model.
+16:12:42 All right.
+16:12:51 Okay, the using of the color and the use of the skin network lab, and the color.
+16:12:57 You don't have to install any software right to use the school network lab, and to use the global call up.
+16:13:04 And this one is one of the application that we, we also mentioned, which is, which is the cloud. So again, the purpose of using those two virtual lab or cloud lab.
+16:13:18 It is to over to get to get it, or to get over the limitations of our machines.
+16:13:26 And I think you are familiar with the users with the use of this call network lab should be all right and what they will call up.
+16:13:37 Okay, for this good network lab or for the collab and discourse, what did we use which a programming language did we use. We use Python programming language, and if like, I want to define python programming language, I would say it is among the purpose
+16:13:54 for computer programming language. So if you want to.
+16:13:59 If you want to design an app you can use Python, if you want to make a website you can use Python, if you want to do use it for data science you can use Python So, Python, it is a multi purpose computer programming language, it is very easy to be understand
+16:14:14 and it is very friendly so that's why it becomes the most common computer programming language for the, for the, for the field of data science, and among the data scientists.
+16:14:29 All right, keep this one in your mind, and this one is, if you have such a question, then definitely the answer is it true.
+16:14:38 Okay, what are the data types of the Python, we say we have a three basic data types of Python, which is integer floats. And then, suffering so right.
+16:14:52 And what we say we say we can concatenate the data types.
+16:15:03 Alright, so I am sure you are familiar with the concatenating concatenating it means you put two things beside each other.
+16:15:11 And when it comes to concatenate, you always have to keep in your mind, that concatenating happened for the sufferings, only if you want to concatenate, then you have to use esoteric.
+16:15:25 All right, what what about if I want to concatenate like a string with the flop. Do you think I'm able to do so I will be getting an error in the code.
+16:15:41 Sorry,
+16:15:41 you will be getting is exactly as we mentioned concatenating It is only for the settings.
+16:15:47 You cannot concatenate.
+16:15:55 Alright, cool. What about the the data structure.
+16:16:02 Their Python data structure or data science data structure. One of them is a couple.
+16:16:04 And another one is a list what the difference what what is the main difference between double analyst.
+16:16:12 We say, double is an immutable wireless is immutable. Right.
+16:16:25 So which one is your double, double or list.
+16:16:33 And which one, which one is your double, double all lyst mutable is double.
+16:16:38 And this is immutable.
+16:16:40 Are you sure.
+16:16:52 Sorry.
+16:16:55 So I know become list immutable and double, double.
+16:17:00 I want someone to argue with me, you have to be argumentative Right.
+16:17:12 Exactly. Couple is unique. This is the word. So, as long as the Apple is unique. So it means step one is what is immutable.
+16:17:22 Right.
+16:17:24 And list is what is in your double.
+16:17:27 Done.
+16:17:28 Kim this one in your mind.
+16:17:32 Exactly list we can delete from the list. And we can also change the index, and the list, but NW cannot delete items from the double, and you cannot change the index of the items and the double.
+16:17:45 So that's why double immutable list immutable.
+16:17:52 Alright. So, moving on from the list to to dictionary from, from a double and list to a dictionary dictionary It is, it is like a kind of data structure, it has its own way to present the elements.
+16:18:09 So normally the elements comes with the key, the key consider as the, the index for the value. Right.
+16:18:18 And can we use a code, and, and a dictionary, and that code.
+16:18:27 Print for us, only the values, or maybe another code print for us on the the Becky's Is that possible. I'm going to send you a quote.
+16:18:37 Do you think I can, I can print something from that code.
+16:18:48 Like I'm going to say print.
+16:19:00 Okay so this good. This one, what do I have, I have
+16:19:07 sorry this is wrong.
+16:19:18 Okay, I have a variable, and this variable call release, or it is your dictionary release underscore here and there is God that is considered as a lot as a dictionary or right dot keys, then to parentheses.
+16:19:34 What do you think, the result will be will be printed out.
+16:19:46 Exactly, only that only the index. So it means only the keys, and that the dictionary which is released underscore year, underscore,
+16:19:59 Right.
+16:20:00 What about if I change keys with the values, the same code, but I'm going to change keys with the values. What I will be getting.
+16:20:10 What will I be getting.
+16:20:14 I will be getting, only the, the values value of each key. Yes, perfect.
+16:20:29 Okay.
+16:20:30 Alright.
+16:20:32 So, moving from the data structure to some of the data preparation or data analysis. When we talk about data analysis or in general when we were talking about the course.
+16:20:43 We focused on a kind of format of the data set, and it was the.cs V, right, but the format, some of the formats that comes for the data set, could be CSV, could be Jason could be Excel, could be SQL, and could be other formats.
+16:21:05 But we mentioned about those force.
+16:21:08 Those for four months.
+16:21:10 Is that right, or we mentioned something else.
+16:21:19 Right. Yeah, so you're keeping your mind. In this course we use the dirty CSV but that doesn't mean you are going to use only the CSV later on. You can use JSON, you can use Excel, you can use SQL, you can use a lot of other formats for the data sets.
+16:21:37 Alright, but the one that we mentioned at the CSV, Jason SQL annex.
+16:21:45 Alright so when it comes when it comes to by 10 by 10 has many libraries, and we say those libraries has functions, and those functions. Help us to get results and instead of writing a code from scratch.
+16:22:00 And then another word, we can say those libraries, and those functions, consider as the tools for data scientists to reuse.
+16:22:11 Can we say that, do you think this is a right way to describe
+16:22:19 the libraries of Python for data science.
+16:22:27 All right.
+16:22:30 When it comes to data science or when it comes to.
+16:22:38 So I shouldn't repeat.
+16:22:41 I want to repeat it is Sheree bit.
+16:22:45 Alright, thank you.
+16:22:49 So, so when it comes to, to, to data scientists especially for those who are like not from it, not good at math. They don't like mad they don't like a statistics.
+16:23:00 You don't have to write code from scratch. Now, there are a lot of libraries for Python for data science, and those libraries comes with a lot of functions.
+16:23:10 You just need to know how to use those functions. And besides, behind the scene of those functions. Hundred percent based on very complex math very complex statistics and a lot of,
+16:23:25 like, combination of probability math and statistics, so you don't have to be good and probability Martin and statistics, you just need to know how to use those functions, and we call them the tools for data scientists.
+16:23:41 All right.
+16:23:48 So you're counting questions.
+16:23:58 Okay, when we talk about those libraries. So, do you remember some of them, or do you remember which one it was a scientific library, which one was algorithmic library, which one was visualization library.
+16:24:18 So which one was the scientific library pandas them by sci fi concept as the scientific library. Yes, exactly. Okay, which one it was the visualization library.
+16:24:35 Multiply the
+16:24:37 seaborne. Yes.
+16:24:43 Okay, I know which one was the algorithmic the library.
+16:24:56 So I couldn't understand this models Yes, exactly.
+16:25:02 TensorFlow yes then separate also consider as be I've got it from February's TensorFlow TensorFlow can be for machine learning but like a lot of people they using it for the deep end.
+16:25:11 Okay. Do you think there's a difference between the pandas data types and Python data types.
+16:25:17 Can we say that.
+16:25:22 Can I say data types in Python, exactly Sam back the data type and pandas.
+16:25:32 Okay, was it. No, the answer is definitely no. But what about what are the data types and pandas
+16:25:41 data type and pandas we have object. We have integer 64, we have a flood 64, we have a data time, 64, is that right.
+16:25:55 So it is object and instead of separated by 10 flawed 64, and instead of lot and by 10 nt just 64, and instead of integer and Python. And one more data type and the abundance we have it while we don't have it in Python, which is the data time.
+16:26:14 64.
+16:26:16 All right, so data wrangling. If I want to describe data wrangling.
+16:26:22 I would say data wrangling it is to deal with the missing values or data wrangling to deal with the formatting, or data wrangling to deal with the normalization, or data wrangling to deal with the turning the categorical value to numerical value, which
+16:26:37 one is the right one.
+16:26:41 Are all of them. Yes, exactly. So the first one, which is dealing with the missing values.
+16:26:49 Normally, how do we deal with the missing values.
+16:26:53 What is the way to deal to deal with the missing values for the like let's say for the numerical for the numerical columns
+16:27:05 and.
+16:27:11 Okay, we had a place them.
+16:27:14 We replace them with what they mean value. Okay, so how to deal with the missing values for the categorical column, in general,
+16:27:28 exactly where to place them with the most frequent value.
+16:27:32 And when we delete the those values, when they are, and the column that we want to predict values in it.
+16:27:45 Alright.
+16:27:53 Okay, so this is about the missing values. So how about the novelisations.
+16:27:59 We use method for normalization so right.
+16:28:02 Do you remember the methods that we mentioned to be used for the normalization.
+16:28:10 I think we mentioned the three methods for normalization, one of them is a min max.
+16:28:20 Another one is the simple,
+16:28:19 simple feature scaling, I think, Yes, simple feature scaling.
+16:28:25 And the third one is
+16:28:28 Discord. Yes, exactly. And what does the idea of normalization, the idea of normalization to have the numbers and between zero to one, for those are the score.
+16:28:38 We will have the numbers and between the three to minus three.
+16:28:47 Max sample feature scanning exactly Andy's at his car.
+16:29:00 So after that we are still in the data wrangling, then we do the correlation and the correlation is statistics. Is that right, or correlation and correlation and statistics will be under which part of the data preparation, or the data analysis, exactly
+16:29:20 will be under the exploratory data analysis product as not as we are talking about the correlation. So normally we look for the positive correlation and we ignore the negative correlation.
+16:29:33 Right.
+16:29:46 What is trending disagree.
+16:30:02 Alright so normally, negative, negative is also correlation Yes, exactly. So, positive correlation and the negative correlation, we can say is that both of them are important for us as long as there is a correlation
+16:30:21 can be better, but we choose those that the correlation buddy. All right. Yes, exactly.
+16:30:34 Okay, moving on from data preparation to the machine learning.
+16:30:43 So when it comes to machine learning.
+16:30:47 We have the artificial intelligence, we have the machine learning, and we have the deep learning.
+16:30:53 So, I would say, I will give you three options, you will choose the right one.
+16:30:59 I would say, machine learning as a part of artificial intelligence.
+16:31:07 While deep learning. It's a subfield of machine learning, or artificial intelligence as a part of machine learning and deep learning, it is a subfield of artificial intelligence or deep learning.
+16:31:25 It is artificial intelligence, it is a part of deep learning and machine learning it is a subfield of deep learning.
+16:31:40 Yes, exactly AIMLD and always remember artificial intelligence is like the cover of all, machine learning, it is a field of artificial intelligence while deep learning deep learning is a subfield of machine learning why, because one of the machine learning
+16:31:56 algorithm. It was developed and become more complex to handle the huge amount of data.
+16:32:03 And that one is the neural network.
+16:32:06 As we mentioned.
+16:32:08 Okay, so what are the types of the machine learning.
+16:32:13 As long as we are talking about machine learning to remember the types of the machine learning.
+16:32:27 Yes, exactly.
+16:32:29 We have supervised machine learning, we have unsupervised machine learning, we have semi supervised machine learning, and we have the reinforcement learning, which are four types.
+16:32:40 And our course we focused on the supervised machine learning, and the unsupervised machine learning.
+16:32:52 Okay. So when do we use the soil as I did abroad was the fourth one four types of the four type we have supervised and unsupervised semi supervised, another one.
+16:33:02 Reinforcement learning. Okay, thank you.
+16:33:12 Alright, the dataset comes with the label all the items comes with the label.
+16:33:20 And we have one item, not labeled.
+16:33:26 And we want to predict the label of that item.
+16:33:29 And we want to predict the label of that item. So, this kind of a problem, and this kind of model to be bolt will be concept to be able to predict the label of that and Label
+16:33:42 Label data.
+16:33:44 You think this one is under what under supervised semi supervised and unsupervised, or the enforcement
+16:33:54 supervised are your hosts eight and supervised. Please don't make me said RFID of out of as long as, as long as predicting the label.
+16:34:10 As long as we know the result.
+16:34:13 We know the actual result we know the labels and we want to predict the one that enviable, then definitely is a supervised machine learning, and more so probably, it is a classification.
+16:34:30 Regression when we want to predict the value or the level of the data. When we have content when we have the correlation. When we have values, they increase or decrease continuously either based on the values are based on the time.
+16:34:48 All right.
+16:34:54 clustering. Okay let's just talk about the clustering.
+16:34:57 When I have a data and the data.
+16:35:00 I don't know what are the labels data comes without a label. I want to group them into groups or into categories, this one called what this one called clustering right clustering, and under which type of the machine learning, and the unsupervised machine
+16:35:17 learning.
+16:35:22 Right.
+16:35:29 So can I say that that aggression, and regulation and the classification is and supervised machine learning while clustering is supervised machine learning.
+16:35:52 So classification and regression is considered as unsupervised machine learning, then a clustering is considered as the supervised machine gun.
+16:36:00 All right.
+16:36:07 Why no.
+16:36:19 All right. Can I say that classification and regulation is supervised machine learning, while clustering is unsupervised machine learning.
+16:36:37 So now is what he has I know.
+16:36:48 Okay, we will see you tomorrow then. We'll leave it this one.
+16:36:54 I don't want you to get the full Mark
+16:37:09 regulation is a predictive.
+16:37:14 Yeah.
+16:37:23 Okay, so always keeping your mind.
+16:37:27 predictive model, definitely supervised machine learning
+16:37:34 disruptive model, definitely unsupervised machine and the predictive model is what it is either regression or classification descriptive model is what is it clustering clustering It is about the grouping the data, and two groups based on the similarity
+16:37:51 of this data predictive model it is about learning from the label data to predict the unlabeled data.
+16:38:08 Alright.
+16:38:12 So, we are talking about that aggression.
+16:38:16 So how many times do we have and the regression.
+16:38:20 We have the.
+16:38:23 The single linear nonlinear degradation, and we have the multiple linear and non linear progression. So as long as we have single and multiple. So, can I say single inner regression bears on more than one independent variable, while multiple linear regression
+16:38:42 bears on one independent variable.
+16:38:50 It's a throw right.
+16:38:50 Do you want me to repeat,
+16:38:56 Repeat.
+16:39:00 Show your maturity.
+16:39:06 No, no, it means but don't repeat
+16:39:12 the question.
+16:39:19 Okay, so from its name.
+16:39:21 As long as a single linear on the linear regression, it means only one independent variable.
+16:39:27 And when it comes to multiple linear on linear regression, it means you are going to use multiple, you are going to use more than one independent variable.
+16:39:39 All right.
+16:39:51 No, not, not the dependent variable that that delila not dependent variable independent dependent is the value that we want to predict based on the independent variable.
+16:40:06 Alright, so the single linear regression, it means we are using only one independent variable and sometimes the independent variable, we call it the predictor.
+16:40:17 All right, multiple linear regression, it means you are going to use more than one independent variable or more than one predictors.
+16:40:29 Yes, exactly. alright so certainly nothing to sorry about.
+16:40:40 Okay.
+16:40:42 Then the evaluation, you remember when we talked about that train test apprentice simulate.
+16:40:49 Which one is better or which one we we were advised to use.
+16:40:56 We're advice to use the.
+16:40:59 Yes, 7030, it means we have to use the trend test simulate, and why because Atlanta is split. It is good to have out of sample accuracy.
+16:41:18 We can call it to have high out of sample accuracy.
+16:41:25 Exactly to prevent the overfitting.
+16:41:34 So the types of the machine learning, we talked about the supervisor will talk about the semi and the unsupervised then semi supervised, we said it is a combination of the supervised and unsupervised machine learning, right.
+16:41:53 Okay, so what about the reasons for enforcement learning reinforcement learning is what reinforcement learning, it is kind of model, learn from the mistakes.
+16:42:07 And the, the applications of the reinforcement learning it is like the author Dr.
+16:42:17 Exactly. It's a kind of model that has the punishment and reward.
+16:42:23 And for the sake of learning from their mistakes.
+16:42:39 So do you think the semi supervised machine learning.
+16:42:42 There is a data label
+16:42:48 for the semi supervised machine learning.
+16:42:56 Yes, but normally in the same way we use the semi supervised machine learning, between because the label are very few.
+16:43:05 The label data, very few data.
+16:43:08 And the whole set of the data. So what we do we cluster the data, two groups or clusters. So, each group become together because they share the same features.
+16:43:20 And inside that group will be very few definitely because, in general, very few data labels will be like one or two data comes with the label and data group.
+16:43:31 So the whole group of the data will be sharing the same label.
+16:43:36 Why, because they come together, and you want to grow up, or when a cluster.
+16:43:41 Because what because they, they have the same features. So definitely they can share the same.
+16:43:49 They can share the same level.
+16:44:07 Yes, but not too many.
+16:44:09 Next Level based on the same features content both level and under but yes definitely missing in the semi supervised machine learning how to enable unlabeled data.
+16:44:25 We are about to finish Zora. Sorry.
+16:44:30 Then we can end of the class early because we are in the mood of the division so but we finished first.
+16:44:42 And you are good. Some of you are counting the questions.
+16:44:47 Some of you also getting all the tricks that I am sharing, so as good.
+16:44:53 49 questions. All right. Okay then.
+16:44:57 Then they might be 62 model.
+16:45:06 Okay, so
+16:45:10 can you clarify again when, when part earlier.
+16:45:16 Clarify which one is it the semi supervised
+16:45:31 semi supervised okay why do we use semi supervised learning, because we have data set, and the data set comes with a very, very few data label.
+16:45:41 Not all of them labeled very few of them labeled.
+16:45:44 So, what we do, we use semi supervised machine learning why, because we want to predict the label of the data and we also want to cluster the data. So when we do clustering, we will have groups.
+16:46:02 the data will be into groups are right, and why they become into groups, because they are similar. So they come into groups.
+16:46:09 So in each group will be like one or two of the data and that the group has the label.
+16:46:16 So we will share that label with the whole group. Why, because based on a clustering beliefs that data become and when a group because they share the same features.
+16:46:29 If one of them has the label, so the label could be for all, because they are similar to each other, so they can have the same data
+16:46:45 can admin upload the recording of this revision session and along, as soon as possible.
+16:46:48 This one you have to talk to lm s people.
+16:47:06 Okay.
+16:47:07 to continue about the, the supervised and unsupervised learning.
+16:47:13 The, the evaluation.
+16:47:16 We say there is. Okay, we said the differences between supervised and unsupervised machine learning, and terms of evaluation. When it comes to unsupervised machine learning, we have a lot of methods for evaluation.
+16:47:29 But when, when it comes to supervised machine learning, we have a limitation, and the number of the methods for the supervised machine learning.
+16:47:37 Is that true or wrong.
+16:47:38 True or false.
+16:47:53 False.
+16:47:59 Yes, exactly.
+16:48:01 For the supervised machine learning, we have a lot of evaluation methods, but for the unsupervised machine learning, we have a limitation, and the number of the methods.
+16:48:12 And we have sure we have shared it to during the class.
+16:48:25 Okay, moving on from machine learning to the recommender system.
+16:48:31 So the main idea of the recommender system, I would say, like my own understanding about recommender system recommender system is a kind of system. Hope, try to to study the customer or people behavior.
+16:48:50 Then to predict what do they want or what do they might like.
+16:49:02 Later, can I say that about the recommender system.
+16:49:01 Yes, exactly. So this is the main idea of the recommender system as left to know what do you like, then I document your things that you like.
+16:49:11 So you will buy all your watch or you want to subscribe.
+16:49:16 Alright, recommender system we have we have shared to. We have shared the content base commander system and the collaborative base of collaborative filtering recommender system.
+16:49:30 Alright, so for the content base, our recommender system. So, it's based on the user profile. Right.
+16:49:42 Exactly So based on the user, normally, like what do they watch. What do they save, what do they archive.
+16:49:51 What do they like normally right the feedback or right.
+16:49:56 Evaluate evaluation. So based on that they will come on to you, things that you're like,
+16:50:04 all right after the recommender system, we talk about the deep learning.
+16:50:09 And the significant difference between deep learning and machine learning. It is what it is the data, then we can say that machine learning, has a better accuracy right when the data and decrease.
+16:50:25 While deep learning the accuracy will decrease, when the data, and increase.
+16:50:33 Why
+16:50:37 we already mentioned that when the data and increase deep learning accuracy will increase. While when the data and increase, machine learning, will start to decrease.
+16:51:06 Okay, All right.
+16:51:10 does good. So tomorrow and the exam I want you to get all the tricks. Very well.
